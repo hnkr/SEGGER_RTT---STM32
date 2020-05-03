@@ -13,5 +13,6 @@ To see the messages on host, JLinkRTTViewer can be used.
 ## Working Principle
 When application starts running Blue LED will start blinking each 500 ms.<br>
 Red LED will be toggled after user's each press on button.<br>
+"Hello from STM32 Nucleo -> Segger_RTT\r\n" message will be seen on JLinkRTTViewer each 500 ms.<br>
 Note: Project is developped with CubeIDE.
 
